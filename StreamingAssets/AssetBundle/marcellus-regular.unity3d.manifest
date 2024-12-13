@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2017588373
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e39d3034c3026e5875101ae06b07f719
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9372662e05ede815898c391bbc5766da
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e39d3034c3026e5875101ae06b07f719
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/UI/OriginFont/Marcellus-Regular.ttf
+Dependencies: []

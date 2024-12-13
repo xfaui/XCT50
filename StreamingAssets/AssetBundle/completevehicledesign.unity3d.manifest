@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 3082246109
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81525b187665d3d763eeb9e06ebd2393
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3b9dc06babf07616664a4a26ffb257ba
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 81525b187665d3d763eeb9e06ebd2393
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: de2f7942f77c7e8409d7088bc8cff7f2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d160e11021e862840a399166a3599707, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: db8f3c6b8a1e47446ad6b27cc07f22a3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Scene/CompleteVehicleDesign.prefab
+Dependencies:
+- D:/XCT_50/apoca/Unity/../Release/WebGL/StreamingAssets/pbr.unity3d

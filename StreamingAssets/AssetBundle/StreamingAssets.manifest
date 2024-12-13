@@ -1,0 +1,127 @@
+ManifestFileVersion: 0
+CRC: 2678971489
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prefabstepui.unity3d
+      Dependencies:
+        Dependency_0: tmp_sdf.unity3d
+    Info_1:
+      Name: prefabsubbrachialstate.unity3d
+      Dependencies:
+        Dependency_0: tmp_sdf.unity3d
+    Info_2:
+      Name: waterproofwireharness.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: prefabmainarmcondition.unity3d
+      Dependencies:
+        Dependency_0: tmp_sdf.unity3d
+    Info_4:
+      Name: menu_bottom_tab.unity3d
+      Dependencies:
+        Dependency_0: tmp_sdf.unity3d
+    Info_5:
+      Name: marcellus-regular.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: btn3dui.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: panelsubjectone.unity3d
+      Dependencies:
+        Dependency_0: tmp_sdf.unity3d
+    Info_8:
+      Name: cvd_wheel.unity3d
+      Dependencies:
+        Dependency_0: pbr.unity3d
+    Info_9:
+      Name: menu_down_tabstage2.unity3d
+      Dependencies:
+        Dependency_0: tmp_sdf.unity3d
+    Info_10:
+      Name: menu_top_tip.unity3d
+      Dependencies:
+        Dependency_0: tmp_sdf.unity3d
+    Info_11:
+      Name: murecho-regular.unity3d
+      Dependencies: {}
+    Info_12:
+      Name: prefabproductprofile.unity3d
+      Dependencies:
+        Dependency_0: tmp_sdf.unity3d
+    Info_13:
+      Name: panelinitselectui.unity3d
+      Dependencies: {}
+    Info_14:
+      Name: texture_obj.unity3d
+      Dependencies: {}
+    Info_15:
+      Name: trc_zuoyi_chuang.unity3d
+      Dependencies: {}
+    Info_16:
+      Name: text3dui.unity3d
+      Dependencies:
+        Dependency_0: tmp_sdf.unity3d
+    Info_17:
+      Name: btn_icon.unity3d
+      Dependencies:
+        Dependency_0: tmp_sdf.unity3d
+    Info_18:
+      Name: aa_combinationvalves.unity3d
+      Dependencies: {}
+    Info_19:
+      Name: menu_bottom_switchbtn.unity3d
+      Dependencies:
+        Dependency_0: tmp_sdf.unity3d
+    Info_20:
+      Name: prefabdoubletext.unity3d
+      Dependencies:
+        Dependency_0: tmp_sdf.unity3d
+    Info_21:
+      Name: prefabcorelightspottip.unity3d
+      Dependencies:
+        Dependency_0: tmp_sdf.unity3d
+    Info_22:
+      Name: aircylinder.unity3d
+      Dependencies: {}
+    Info_23:
+      Name: paneluimodel.unity3d
+      Dependencies: {}
+    Info_24:
+      Name: menu_bottom_tip.unity3d
+      Dependencies:
+        Dependency_0: tmp_sdf.unity3d
+    Info_25:
+      Name: trc_controlcabinseat.unity3d
+      Dependencies: {}
+    Info_26:
+      Name: trc_cabseat.unity3d
+      Dependencies:
+        Dependency_0: pbr.unity3d
+    Info_27:
+      Name: zhitui_hou.unity3d
+      Dependencies:
+        Dependency_0: pbr.unity3d
+    Info_28:
+      Name: atlas_subject.unity3d
+      Dependencies: {}
+    Info_29:
+      Name: tmp_sdf.unity3d
+      Dependencies: {}
+    Info_30:
+      Name: pbr.unity3d
+      Dependencies: {}
+    Info_31:
+      Name: axle.unity3d
+      Dependencies: {}
+    Info_32:
+      Name: tworoomconfiguration.unity3d
+      Dependencies: {}
+    Info_33:
+      Name: jobperformance.unity3d
+      Dependencies: {}
+    Info_34:
+      Name: completevehicledesign.unity3d
+      Dependencies:
+        Dependency_0: pbr.unity3d

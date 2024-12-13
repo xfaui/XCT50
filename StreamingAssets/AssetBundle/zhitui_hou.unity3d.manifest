@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2775640136
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1e960bff31e92bd88d5b3a43df74e79
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d093761738ba1bf8a6d5cff5da6e8997
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e1e960bff31e92bd88d5b3a43df74e79
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Model/ZhiTui_Hou.prefab
+Dependencies:
+- D:/XCT_50/apoca/Unity/../Release/WebGL/StreamingAssets/pbr.unity3d
