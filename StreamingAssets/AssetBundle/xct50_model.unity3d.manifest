@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 2539939672
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e1ec0bac2e1c62322bc8d79b311463f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b5eafed8efd3a4e017a1db90207f5ecb
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e1ec0bac2e1c62322bc8d79b311463f5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ab9506dca8a08549be94d92775d5da9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec53c2698917ef84ab2243186f4de1bd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundles/Model/XCT50_model.prefab
+Dependencies:
+- D:/XCT_50/apoca/Unity/../Release/WebGL/StreamingAssets/pbr.unity3d

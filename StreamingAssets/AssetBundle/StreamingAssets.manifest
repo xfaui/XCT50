@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 603417189
+CRC: 616613527
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -123,5 +123,9 @@ AssetBundleManifest:
       Dependencies: {}
     Info_34:
       Name: completevehicledesign.unity3d
+      Dependencies:
+        Dependency_0: pbr.unity3d
+    Info_35:
+      Name: xct50_model.unity3d
       Dependencies:
         Dependency_0: pbr.unity3d
