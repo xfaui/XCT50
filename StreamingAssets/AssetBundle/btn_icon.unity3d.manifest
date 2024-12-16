@@ -3,13 +3,13 @@ CRC: 1512445052
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1baf4c427153d8a62647fc48a12d800d
+    Hash: 6a66a275675323c30a8ebdc5e7a3f19c
   TypeTreeHash:
     serializedVersion: 2
     Hash: f451237d7bf181920addb99cc2dc471d
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1baf4c427153d8a62647fc48a12d800d
+    Hash: 6a66a275675323c30a8ebdc5e7a3f19c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -80,4 +80,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Btn_Icon.prefab
 Dependencies:
-- D:/XCT_50/apoca/Release/WebGL/tmp_sdf.unity3d
+- D:/XCT_50/apoca/Unity/../Release/WebGL/StreamingAssets/tmp_sdf.unity3d

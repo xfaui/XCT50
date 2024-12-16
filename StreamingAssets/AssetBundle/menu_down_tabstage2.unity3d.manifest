@@ -3,13 +3,13 @@ CRC: 1951151111
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 352e7beb530c6874642c48764ddedfa5
+    Hash: 3f85a5169398cc30a8261ccc6afc950d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5f8f1f6ac8da32f16281d17e5fa7613d
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 352e7beb530c6874642c48764ddedfa5
+    Hash: 3f85a5169398cc30a8261ccc6afc950d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -90,4 +90,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Menu_Down_TabStage2.prefab
 Dependencies:
-- D:/XCT_50/apoca/Release/WebGL/tmp_sdf.unity3d
+- D:/XCT_50/apoca/Unity/../Release/WebGL/StreamingAssets/tmp_sdf.unity3d

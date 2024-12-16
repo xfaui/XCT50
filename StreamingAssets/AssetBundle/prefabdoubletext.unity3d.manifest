@@ -3,13 +3,13 @@ CRC: 1553126524
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2e748f9ebd8e7237a57a38d2537683c4
+    Hash: 415d30ca8c35da06da4ff61f337b9350
   TypeTreeHash:
     serializedVersion: 2
     Hash: 6d33f517e896083ecf97807ef0cdc153
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 2e748f9ebd8e7237a57a38d2537683c4
+    Hash: 415d30ca8c35da06da4ff61f337b9350
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -82,4 +82,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/PrefabDoubleText.prefab
 Dependencies:
-- D:/XCT_50/apoca/Release/WebGL/tmp_sdf.unity3d
+- D:/XCT_50/apoca/Unity/../Release/WebGL/StreamingAssets/tmp_sdf.unity3d

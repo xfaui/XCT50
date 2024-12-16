@@ -3,13 +3,13 @@ CRC: 1145003855
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d69daa784354f35eb01b8ab02ec92973
+    Hash: 02c1d93f4452984291980b7871961cb3
   TypeTreeHash:
     serializedVersion: 2
     Hash: 1c635186c4a2ba95a534adf179703d80
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d69daa784354f35eb01b8ab02ec92973
+    Hash: 02c1d93f4452984291980b7871961cb3
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -66,4 +66,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Text3DUI.prefab
 Dependencies:
-- D:/XCT_50/apoca/Release/WebGL/tmp_sdf.unity3d
+- D:/XCT_50/apoca/Unity/../Release/WebGL/StreamingAssets/tmp_sdf.unity3d

@@ -3,13 +3,13 @@ CRC: 2523747739
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4655637709d6ef29f2bb2bab680dff8d
+    Hash: 3a4a2f2a2c5b8339a04d4eede26bbabc
   TypeTreeHash:
     serializedVersion: 2
     Hash: e31aaf4c0ac157021ab73ddc24e1277b
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 4655637709d6ef29f2bb2bab680dff8d
+    Hash: 3a4a2f2a2c5b8339a04d4eede26bbabc
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -82,4 +82,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/PrefabProductProfile.prefab
 Dependencies:
-- D:/XCT_50/apoca/Release/WebGL/tmp_sdf.unity3d
+- D:/XCT_50/apoca/Unity/../Release/WebGL/StreamingAssets/tmp_sdf.unity3d

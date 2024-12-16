@@ -3,13 +3,13 @@ CRC: 2775640136
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cc18965d8b9458ecc9e6bdd652290932
+    Hash: e1e960bff31e92bd88d5b3a43df74e79
   TypeTreeHash:
     serializedVersion: 2
     Hash: d093761738ba1bf8a6d5cff5da6e8997
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: cc18965d8b9458ecc9e6bdd652290932
+    Hash: e1e960bff31e92bd88d5b3a43df74e79
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -34,4 +34,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Model/ZhiTui_Hou.prefab
 Dependencies:
-- D:/XCT_50/apoca/Release/WebGL/pbr.unity3d
+- D:/XCT_50/apoca/Unity/../Release/WebGL/StreamingAssets/pbr.unity3d

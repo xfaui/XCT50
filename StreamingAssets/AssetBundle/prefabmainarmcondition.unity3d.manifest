@@ -3,13 +3,13 @@ CRC: 1502727144
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d6100fc400ce45613b4cf32efc285ac0
+    Hash: 6e7a07940bc9e5d218e3b5ffccbc135c
   TypeTreeHash:
     serializedVersion: 2
     Hash: dc3b4841d5228d969cffcd4b103c97b0
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d6100fc400ce45613b4cf32efc285ac0
+    Hash: 6e7a07940bc9e5d218e3b5ffccbc135c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -96,4 +96,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/PrefabMainArmCondition.prefab
 Dependencies:
-- D:/XCT_50/apoca/Release/WebGL/tmp_sdf.unity3d
+- D:/XCT_50/apoca/Unity/../Release/WebGL/StreamingAssets/tmp_sdf.unity3d

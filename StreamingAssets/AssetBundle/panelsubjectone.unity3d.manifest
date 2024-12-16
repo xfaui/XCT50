@@ -3,13 +3,13 @@ CRC: 3801823135
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cd81230d43166022bb3e7e79c025a9cf
+    Hash: 5789ab583fe120c23055015231e10a50
   TypeTreeHash:
     serializedVersion: 2
     Hash: a9ff16e438ea790177effb03f4b6e819
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: cd81230d43166022bb3e7e79c025a9cf
+    Hash: 5789ab583fe120c23055015231e10a50
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -94,4 +94,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/PanelSubjectOne.prefab
 Dependencies:
-- D:/XCT_50/apoca/Release/WebGL/tmp_sdf.unity3d
+- D:/XCT_50/apoca/Unity/../Release/WebGL/StreamingAssets/tmp_sdf.unity3d
