@@ -3,13 +3,13 @@ CRC: 3403820072
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b3f35885864270ed64de8cc05ed2f100
+    Hash: e8b4f055a21cd221fa5ba85d00f9c018
   TypeTreeHash:
     serializedVersion: 2
     Hash: d683f95c81fdba27bea225a308e1d3e3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: b3f35885864270ed64de8cc05ed2f100
+    Hash: e8b4f055a21cd221fa5ba85d00f9c018
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -82,4 +82,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Menu_Bottom_Tab.prefab
 Dependencies:
-- D:/XCT_50/apoca/Unity/../Release/WebGL/StreamingAssets/tmp_sdf.unity3d
+- D:/XCT_50/apoca/Release/WebGL/tmp_sdf.unity3d

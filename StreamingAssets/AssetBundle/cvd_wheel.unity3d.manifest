@@ -3,13 +3,13 @@ CRC: 1071687869
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1538f7f216a75785f2ec0444976b503c
+    Hash: 044f3749fa460c412384498569192957
   TypeTreeHash:
     serializedVersion: 2
     Hash: d27d605e56b00c7d193d3604b99a7461
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1538f7f216a75785f2ec0444976b503c
+    Hash: 044f3749fa460c412384498569192957
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -32,4 +32,4 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Bundles/Model/CVD_Wheel.prefab
 Dependencies:
-- D:/XCT_50/apoca/Unity/../Release/WebGL/StreamingAssets/pbr.unity3d
+- D:/XCT_50/apoca/Release/WebGL/pbr.unity3d

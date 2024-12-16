@@ -3,13 +3,13 @@ CRC: 1329338171
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d55317f14333da20198df66988babd7f
+    Hash: 9f4dbbec8a907898898dc12522de2f26
   TypeTreeHash:
     serializedVersion: 2
     Hash: 727293b414909013ecce69a7f798133f
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d55317f14333da20198df66988babd7f
+    Hash: 9f4dbbec8a907898898dc12522de2f26
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -96,4 +96,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Menu_Bottom_SwitchBtn.prefab
 Dependencies:
-- D:/XCT_50/apoca/Unity/../Release/WebGL/StreamingAssets/tmp_sdf.unity3d
+- D:/XCT_50/apoca/Release/WebGL/tmp_sdf.unity3d

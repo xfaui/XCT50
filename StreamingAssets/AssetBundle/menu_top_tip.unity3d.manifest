@@ -3,13 +3,13 @@ CRC: 1384832778
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3e5ef81da22efcea43632b72d4bce504
+    Hash: 3ddddd716a5633782f9202ac88a6b948
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9fc557549913f6390ea0f3d3aa60202a
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 3e5ef81da22efcea43632b72d4bce504
+    Hash: 3ddddd716a5633782f9202ac88a6b948
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -78,4 +78,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/Menu_Top_Tip.prefab
 Dependencies:
-- D:/XCT_50/apoca/Unity/../Release/WebGL/StreamingAssets/tmp_sdf.unity3d
+- D:/XCT_50/apoca/Release/WebGL/tmp_sdf.unity3d

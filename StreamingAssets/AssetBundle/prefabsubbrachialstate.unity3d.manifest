@@ -3,13 +3,13 @@ CRC: 2844007141
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b25dba1a469b35432f7c9bc7ac2883dd
+    Hash: 493f038616100fae31c9012942e8b299
   TypeTreeHash:
     serializedVersion: 2
     Hash: dc3b4841d5228d969cffcd4b103c97b0
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: b25dba1a469b35432f7c9bc7ac2883dd
+    Hash: 493f038616100fae31c9012942e8b299
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -96,4 +96,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/PrefabSubbrachialState.prefab
 Dependencies:
-- D:/XCT_50/apoca/Unity/../Release/WebGL/StreamingAssets/tmp_sdf.unity3d
+- D:/XCT_50/apoca/Release/WebGL/tmp_sdf.unity3d

@@ -3,13 +3,13 @@ CRC: 3955479647
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1e265b45eebdeb979917252cabeb8b72
+    Hash: eea31af9c4b67cb9b16a3c7ffa288756
   TypeTreeHash:
     serializedVersion: 2
     Hash: af51c425c9656d4a80d1564611c4bf33
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1e265b45eebdeb979917252cabeb8b72
+    Hash: eea31af9c4b67cb9b16a3c7ffa288756
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -92,4 +92,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Bundles/UI/PrefabCoreLightspotTip.prefab
 Dependencies:
-- D:/XCT_50/apoca/Unity/../Release/WebGL/StreamingAssets/tmp_sdf.unity3d
+- D:/XCT_50/apoca/Release/WebGL/tmp_sdf.unity3d
