@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 616613527
+CRC: 3965891507
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -129,3 +129,12 @@ AssetBundleManifest:
       Name: xct50_model.unity3d
       Dependencies:
         Dependency_0: pbr.unity3d
+    Info_36:
+      Name: morenchangjing.unity3d
+      Dependencies: {}
+    Info_37:
+      Name: people.unity3d
+      Dependencies: {}
+    Info_38:
+      Name: appearancedimension.unity3d
+      Dependencies: {}

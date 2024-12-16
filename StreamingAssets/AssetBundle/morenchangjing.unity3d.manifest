@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 3502995113
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d92fb6a7d85f2e7ffdbc3f9a7194101a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7dbee8e85126c040ed1ccf77b08ec447
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d92fb6a7d85f2e7ffdbc3f9a7194101a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: db8f3c6b8a1e47446ad6b27cc07f22a3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 63c282b23116a8d4b9d88047bd2f25ff, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.ModelView
+  ClassName: PrefabLMData/RendererInfo
+Assets:
+- Assets/Bundles/Scene/MoRenChangJing.prefab
+Dependencies: []
